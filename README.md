@@ -6,6 +6,7 @@ Here, GLD is a target column
 
 
 The steps that i've performed are:
+
 1.data collection
 
 2.pre-processing and data analysis
